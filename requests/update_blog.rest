@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/blogs/5a7ae1a9cc55c42c49f3fa69
+Content-Type: application/json
+
+{
+  "author": "Pekka Mikkola",
+  "title": "040-556778"
+}
